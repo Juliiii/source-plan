@@ -11,5 +11,6 @@
 + redux
 + react-redux
 + mobx
++ mobx-react
 + vue-router
 + vue
