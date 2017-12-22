@@ -5,7 +5,7 @@
 #### 目录
 + vue.socket.io
   详细的注释，[传送门](https://github.com/Juliiii/Vue-Socket.io)
-
+  掘金文章，[传送门](https://juejin.im/post/5a37a00e5188253865094a04)
 #### 接下来
 + vuex
 + redux
