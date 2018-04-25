@@ -13,7 +13,7 @@
 + redux-thunk
 + event-proxy
 + vuex
-+ ~~redux
++ ~~redux~~
 + react-redux
 + vue-router
 + react-router
