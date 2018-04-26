@@ -9,8 +9,11 @@
   
 + redux<br/>
   详细的注释，[传送门](https://github.com/Juliiii/redux)
+  
++ redux-thunk<br/>
+  详细的注释，[传送门](https://github.com/Juliiii/redux-thunk)
 #### 接下来
-+ redux-thunk
++ ~~redux-thunk~~
 + event-proxy
 + vuex
 + ~~redux~~
