@@ -5,19 +5,19 @@
 #### 目录
 + vue.socket.io<br/>
   详细的注释，[传送门](https://github.com/Juliiii/Vue-Socket.io)
-  博客地址，[传送门](https://juejin.im/post/5a37a00e5188253865094a04)
+  博客地址，[传送门](https://github.com/Juliiii/blog/issues/1)
   
 + redux<br/>
   详细的注释，[传送门](https://github.com/Juliiii/redux)
-  博客地址，[传送门](https://juliiii.github.io/2018/04/26/redux/)
+  博客地址，[传送门](https://github.com/Juliiii/blog/issues/3)
   
 + redux-thunk<br/>
   详细的注释，[传送门](https://github.com/Juliiii/redux-thunk)
-  博客地址，[传送门](https://juliiii.github.io/2018/04/27/redux_thunk/)
+  博客地址，[传送门](https://github.com/Juliiii/blog/issues/4)
 
 + reselect<br/>
   详细的注释，[传送门](https://github.com/Juliiii/reselect)
-  博客地址，[传送门](https://juliiii.github.io/2018/04/30/reselect/)
+  博客地址，[传送门](https://github.com/Juliiii/blog/issues/2)
 
 #### 接下来
 + ~~redux-thunk~~
